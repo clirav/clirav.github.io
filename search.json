@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Education\nM.S. in Counseling Psychology\n\n\nWorking Experience\n\nplot(Titanic)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ravin Cline",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nplot(iris, pch=20, cex=.5, col=\"firebrick\")"
+  }
+]
