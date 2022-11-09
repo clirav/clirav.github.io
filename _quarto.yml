@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Ravin Cline"
+  navbar: 
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: cv.pdf
+        text: CV
+      - text: "Websites"
+        menu: 
+          - href: https://www.diverseworld.co
+            text: Embracing Diversity, Inc.
+          - href: https://www.linkedin.com/in/ravin-cline-54a88856/
+            text: LinkedIn
+      
+      
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+      
+      
